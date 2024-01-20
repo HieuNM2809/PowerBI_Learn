@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/latest/owid-covid-latest.csv
+https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19_theo_qu%E1%BB%91c_gia_v%C3%A0_v%C3%B9ng_l%C3%A3nh_th%E1%BB%95
