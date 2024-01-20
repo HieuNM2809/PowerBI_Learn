@@ -1,0 +1,2 @@
+Thêm code cơ bản:
+  + Điều kiện để hiển thị màu
